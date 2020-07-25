@@ -1,0 +1,5 @@
+The dataset can be downloadded from the following link-
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/training_cleaned.csv
+
+The weights file for glove.6B.100D can be downloaded from the following link-
+https://www.kaggle.com/terenceliu4444/glove6b100dtxt
